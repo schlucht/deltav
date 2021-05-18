@@ -1,0 +1,23 @@
+{
+  "name": "deltav",
+  "version": "1.0.0",
+  "description": "Delta-V Rezepte Auflistung",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel serve ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schlucht/deltaV.git"
+  },
+  "author": "Schmid Lothar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schlucht/deltaV/issues"
+  },
+  "homepage": "https://github.com/schlucht/deltaV#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.2"
+  }
+}
