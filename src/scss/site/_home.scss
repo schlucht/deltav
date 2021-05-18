@@ -1,0 +1,5 @@
+@use '../abstracts' as v;
+
+body {
+  background: v.$bg-Color;
+}

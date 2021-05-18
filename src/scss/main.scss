@@ -1,5 +1,3 @@
-$bg-Color: red;
-
-body {
-    background-color: $bg-Color;
-}
+@use './base/reset';
+@use './site/home';
+@use './layout/header';
